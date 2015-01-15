@@ -115,7 +115,7 @@ public class LoginActivity extends ActionBarActivity {
                 // if (result != null)
                 // iconImage.setImageBitmap(result);
                 //  dialog.show();
-                dialog.setMessage("登录成功");
+                dialog.setMessage("登录成功!");
             else
                 dialog.setMessage("登录失败 请重新输入");
             Timer timer = new Timer();
